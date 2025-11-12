@@ -37,3 +37,4 @@ if __name__ == '__main__':
 
 # Test scanning for Appscan
 print("Assignment3")
+print("Hello !")
